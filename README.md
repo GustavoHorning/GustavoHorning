@@ -1,6 +1,6 @@
 # Gustavo Horning 👋
 
-🎓 Estudante de **Sistemas de Informação** (último ano)  
+🎓 Estudante de **Sistemas de Informação PUC-PR** (7° Período)  
 📊 Interesse em **Engenharia de Dados** e **Análise de Dados**  
 💻 Base sólida em desenvolvimento de software e banco de dados  
 
